@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @JUANICZO
-- 👀 I’m interested in programming, cars culture and gym
-- 🌱 I’m currently learning javascript and some life things :)
-- 💞️ I’m looking to collaborate on improve the level and a better understand of this world 
+- 👋 Hi, I’m Juani.
+- 👀 I’m interested in programming, cars, travel, gym and books.
+- 🌱 I’m currently learning javascript, html, css, and in a not too far future phyton.
+- 💞️ I’m looking to collaborate on improve my level and a better understand the universe od coding 
 - 📫 How to reach me : you can reach me in my e-mail
 
 <!---
